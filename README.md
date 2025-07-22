@@ -22,12 +22,17 @@ In this exercise, we are:
 3. combining different criterias (based on column values e.g. age above 25, passanger is kid(s), number of visits to bar) to identify pattern to a specific combination of filters
 4. forming a hypothesis on whether there is value in continuing to offer coupons to drivers and will it result in more business for local businesses
 
-## How to contribute to the repo
-
-Please fork the repo and create a pull request from a branch in your fork against main in origin.
-
 ## How to run on local
 
 1. Please use some tool like Anaconda Navigator to get Jupyter lab installed along with it.
 2. Run Jupyter lab
 3. Import the project and run coupons_analysis_visualizations.ipynb file.
+
+## How to better interpret html plots
+
+Please fork this repo and open html files in your local browser. You can hover over plots to experience interactivity in plots.
+
+
+## How to contribute to the repo
+
+Please fork the repo and create a pull request from a branch in your fork against main in origin.
